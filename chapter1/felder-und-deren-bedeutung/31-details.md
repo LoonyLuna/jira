@@ -1,4 +1,4 @@
-# Details
+# 2.1 Details
 
 ---
 
@@ -10,8 +10,6 @@
 6. Status
 7. Lösung
 8. Lösungsversion\(en\)
-
-
 
 
 

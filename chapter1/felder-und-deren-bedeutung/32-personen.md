@@ -1,4 +1,4 @@
-# Personen
+# 2.2 Personen
 
 ---
 
@@ -6,8 +6,6 @@
 2. Autor
 3. Stimmen
 4. Beobachter verwalten
-
-
 
 
 

@@ -1,4 +1,4 @@
-# Beschreibung \(empfohlener Inhalt\)
+# 2.4 Beschreibung \(empfohlener Inhalt\)
 
 ---
 
@@ -8,8 +8,6 @@
 4. Situation
 5. Anforderungen
 6. Testanweisungen \(vom Ticketbearbeiter später hinzugefügt\)
-
-
 
 
 

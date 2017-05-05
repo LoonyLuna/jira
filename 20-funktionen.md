@@ -1,9 +1,9 @@
-# 2.0 Funktionen
+# 3.0 Funktionen
 
 ---
 
-* 2.1 Erstellen eines Tickets
-* 2.2 ...
+* 3.1 Erstellen eines Tickets
+* 3.2 ...
 
 
 
