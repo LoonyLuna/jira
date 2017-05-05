@@ -2,8 +2,8 @@
 
 ---
 
-* 3.1 Erstellen eines Tickets
-* 3.2 ...
+* **3.1 Erstellen eines Tickets**
+* **3.2 ...**
 
 
 
