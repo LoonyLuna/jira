@@ -9,5 +9,5 @@ Dies ist das erdfisch Handbuch für das interne Ticketsystem JIRA von Atlassian.
 
 
 
-[^1]: Bei Fragen bitte an erdfisch oder die Autorin \(Janet Lehmann\) wenden.
+[^1]: Bei Fragen bitte an erdfisch oder die Autorin \(Janet Lehmann - janet.lehmann@erdfisch.de\) wenden.
 

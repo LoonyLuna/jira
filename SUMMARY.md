@@ -11,6 +11,6 @@
   * [2.3 Daten](chapter1/felder-und-deren-bedeutung/33-daten.md)
   * [2.4 Beschreibung \(empfohlener Inhalt\)](chapter1/felder-und-deren-bedeutung/34-beschreibung.md)
   * [2.5 Anhänge](chapter1/felder-und-deren-bedeutung/35-anhange.md)
-  * [3.0 Funktionen](20-funktionen.md)
-    * [3.1 Erstellen eines Tickets](20-funktionen/erstellen-eines-tickets.md)
+* [3.0 Funktionen](30-funktionen.md)
+  * [3.1 Erstellen eines Tickets](30-funktionen/31-erstellen-eines-tickets.md)
 
