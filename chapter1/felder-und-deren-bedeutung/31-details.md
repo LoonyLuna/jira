@@ -13,18 +13,31 @@
 
 ## Typ
 
-Dieses Feld wird dazu genutzt die Aufgabe zu spezifizieren. Die Auswahlmöglichkeiten sind hierbei:
+Dieses Feld wird dazu genutzt die Aufgabe zu spezifizieren. Die Auswahlmöglichkeiten sind hier:
 
 * **Aufgabe**
-  * Ein normaler Aufgabentyp, wie zum Beispiel eine Änderung des Frontend-Bereichs
+  * Ein standard Aufgabentyp, wie zum Beispiel eine Änderung des Frontend-Bereichs
 * **Bug**
   * Ist z.B. ein schwerwiegender Fehler in der Funktionalität der Live-Seite aufgetreten, wird dieser Vorgangstyp gewählt. Dadurch wird signalisiert, dass dieses Ticket wichtig ist und so schnell wie möglich bearbeitet werden sollte.
 * **Neue Funktion**
   * Ein neues Modul, bzw. eine neue Funktionalität soll in die Seite eingebaut werden
 * **Verbesserung**
-  * Ein bestehendes Modul, bzw. eine bestehende Funktionalität soll erneuert der verbessert werden
+  * Ein bestehendes Modul, bzw. eine bestehende Funktionalität soll erneuert oder optimiert werden
 * **Epic**
 * **Story**
+
+## Priorität
+
+Durch dieses Feld wird ein Ticket priorisiert. Die Auswahlmöglichkeiten sind hier:
+
+* **Normal**
+  * Dies ist der Standardwert für dieses Feld. Das Ticket wird normal \(nach Erstellungsreihenfolge\) auf dem Board angezeigt.
+* **Blocker**
+  * Dieser Wert blockt jegliche Aufgaben, solange dieses Ticket nicht erledigt wurde. In Notfällen zu verwenden \(wie z.B. Server down\)
+* **Hoch **
+  * Ein Ticket mit der Priorität hoch wird als erstes auf dem Board angezeigt \(Erstellungsreihenfolge wird ignoriert\).
+* **Unwesentlich**
+  * Unwesentliche Tickets werden als letztes auf dem Board angezeigt \(Erstellungsreihenfolge wird ignoriert\).
 
 
 
