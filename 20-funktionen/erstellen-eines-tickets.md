@@ -1,5 +1,7 @@
 # Erstellen eines Tickets
 
+---
+
 \[SCREENSHOT AKA ABBILDUNG 1\]
 
 1. Klicken Sie auf die Schaltfläche Erstellen \(siehe Abbildung 1\)
