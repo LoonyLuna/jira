@@ -50,7 +50,31 @@ In diesem Feld werden Wörter angegeben \(z.B. Theming, Sitebuilding, Firma xyz\
 
 ## 5. Branch
 
-In diesem Feld wird eingetragen unter welchem Git-Branch die Aufgabe gelöst wurde \(z.B. feature/DSAG-1971\). 
+In diesem Feld wird eingetragen unter welchem Git-Branch die Aufgabe gelöst wurde \(z.B. feature/DSAG-1971\).
+
+## 6. Status
+
+Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschoben wird, bzw. bei dessen Erstellung. Hier wird angezeigt in welcher Phase sich das Ticket gerade befindet. Mögliche Status sind:
+
+* **Planung**
+* **Offen**
+* **Aufgaben \(ToDo\)**
+* **In Arbeit**
+* **Testing \(CI\)**
+* **Code Review**
+* **Review**
+* **Deploy to stage**
+* **to stage**
+* **Stage**
+* **to Live \(Deploy\)**
+* **Done**
+* **Fertig**
+
+## 7. Lösung
+
+**Dieses Feld wird benutzt**
+
+## 8. Lösungsversion\(en\)
 
 
 
