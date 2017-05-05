@@ -2,7 +2,7 @@
 
 ---
 
-1. Mögliche Datentypen
+1. **Mögliche Datentypen**
 
 
 
