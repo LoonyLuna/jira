@@ -76,5 +76,7 @@ Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschob
 
 ## 8. Lösungsversion\(en\)
 
+Dieses Feld wird ausgefüllt nachdem das Ticket deployed wurde. Hier wird angegeben in welcher Version das Problem gelöst wurde \(z.B. 1.6\)
+
 
 
