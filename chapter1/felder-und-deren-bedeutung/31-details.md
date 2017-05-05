@@ -11,7 +11,7 @@
 7. **Lösung**
 8. **Lösungsversion\(en\)**
 
-## Typ
+## 1. Typ
 
 Dieses Feld wird dazu genutzt die Aufgabe zu spezifizieren. Die Auswahlmöglichkeiten sind hier:
 
@@ -26,7 +26,7 @@ Dieses Feld wird dazu genutzt die Aufgabe zu spezifizieren. Die Auswahlmöglichk
 * **Epic**
 * **Story**
 
-## Priorität
+## 2. Priorität
 
 Durch dieses Feld wird ein Ticket priorisiert. Die Auswahlmöglichkeiten sind hier:
 
@@ -38,6 +38,11 @@ Durch dieses Feld wird ein Ticket priorisiert. Die Auswahlmöglichkeiten sind hi
   * Ein Ticket mit der Priorität hoch wird als erstes auf dem Board angezeigt \(Erstellungsreihenfolge wird ignoriert\).
 * **Unwesentlich**
   * Unwesentliche Tickets werden als letztes auf dem Board angezeigt \(Erstellungsreihenfolge wird ignoriert\).
+
+## 3. betrifft Version\(en\)
+
+Dieses Feld gibt an, welche Version des Entwicklungsvorganges von der Aufgabe betroffen ist. Z.B. Browerdarstellung muss in Version 1.6 gefixt werden.   
+**Dieses Feld wird meist nicht mit angegeben \(findet nur in seltenen Fällen Verwendung\)**
 
 
 
