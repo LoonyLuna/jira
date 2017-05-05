@@ -2,7 +2,8 @@
 
 ---
 
-2.1 Erstellen eines Tickets
+* 2.1 Erstellen eines Tickets
+* 2.2 ...
 
-2.2 ...
+
 
