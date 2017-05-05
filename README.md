@@ -1,3 +1,57 @@
-# My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+# Das erdfisch Handbuch für JIRA
+
+---
+
+Dies ist das erdfisch Handbuch für das interne Ticketsystem JIRA von Atlassian. Im Folgenden werden Funktion, Bedeutung und Aufbau von Jira erklärt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bei Fragen bitte an erdfisch oder die Autorin \(Janet Lehmann\) wenden.
+
