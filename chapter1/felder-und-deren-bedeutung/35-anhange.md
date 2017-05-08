@@ -4,5 +4,13 @@
 
 1. **Mögliche Datentypen**
 
+## 1. Mögliche Datentypen
+
+Mögliche Datentypen sind:
+
+* doc
+* png
+* odt
+
 
 
