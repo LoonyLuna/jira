@@ -60,16 +60,27 @@ Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschob
 * **Planung**
 * **Offen**
 * **Aufgaben \(ToDo\)**
+  * Tickets mit diesem Status werden in der ersten Spalte auf dem Board ausgegeben und zeigen an, dass sie nun earbeitet werden können.
 * **In Arbeit**
+  * Dieser Status gibt an, dass ein Mitarbeiter dieses Ticket gerade bearbeitet.
 * **Testing \(CI\)**
+  * Nach einem erfolgreichen Commit \(Code-Veränderung die im Gitlab veröfentlicht wurde\) läuft ein automatisierter Test durch, dass diese Veränderung die Webseite nicht zerstört \(Funktionialität wird gewährleistet\). Das Ticket liegt solange unter diesem Status auf dem Board, bis die automatisierten Tests durchgelaufen sind. Danach erfolg der Code Review.
 * **Code Review**
+  * Tickets mit diesem Status werden von Mitarbeitern, die das Ticket nicht bearbeitet haben, kontrolliert \(Mehr-Augen-Prinzip\). Hier wird der Code auf eventuelle logische Fehler, die bei den automatisierten Tests nicht aufgefallen sind, überprüft und verifiziert.
 * **Review**
+  * Tickets mit diesem Status werden vom angegenen Mitarbeiter auf ihre Funktion geprüft. Wird zum Beispiel ein Export verändert, überprüft ein unabhängiger Mitarbeiter die gewünschte, geänderte Funktion auf die korrekte Ausführung. 
 * **Deploy to stage**
+  * Tickets mit diesem Status wurden getestet und freigegeben für die stage. 
 * **to stage**
+  * Tickets mit diesem Status werden momentan auf die stage verschoben.
 * **Stage**
+  * Tickets mit diesem Status wurden zur stage deployed und werden nun vom Kunden abermals auf ihre Funktionalität überprüft.
 * **to Live \(Deploy\)**
+  * Tickets mit diesem Status wurden vom Kunden verifiziert und sollen auf die live Webseite gebracht werden.
 * **Done**
+  * Tickets mit diesem Status wurden erfolgreich in die Live-Webseit integriert und werden momentan dokumentiert.
 * **Fertig**
+  * Tickets mit diesem Status sind fertig und landen im Archiv.
 
 ## 7. Lösung
 
