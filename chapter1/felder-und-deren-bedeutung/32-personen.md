@@ -23,7 +23,5 @@ Mit Hilfe dieses Feldes kann über die weitere Vorgehensweise des Tickets abgest
 
 ## 4. Beobachter verwalten
 
-Mit Hilfe dieses Feldes können die Personen die eine Benachrichtung, bei Veränderungen im Ticket, erhalten verwaltet werden. 
-
-
+Mit Hilfe dieses Feldes können die Personen die eine Benachrichtung, bei Veränderungen im Ticket, erhalten hinzugefügt oder entfernt werden.
 
