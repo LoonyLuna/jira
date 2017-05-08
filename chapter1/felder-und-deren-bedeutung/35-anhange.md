@@ -11,6 +11,7 @@ Mögliche Datentypen sind:
 * doc
 * png
 * odt
+* pdf
 
 
 
