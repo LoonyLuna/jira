@@ -43,7 +43,7 @@ Durch dieses Feld wird ein Ticket priorisiert. Die Auswahlmöglichkeiten sind hi
 ## 3. betrifft Version\(en\)
 
 Dieses Feld gibt an, welche Version des Entwicklungsvorganges von der Aufgabe betroffen ist. Z.B. Browerdarstellung muss in Version 1.6 gefixt werden.  
-**Dieses Feld wird meist nicht mit angegeben \(findet nur in seltenen Fällen Verwendung\)**
+**Dieses Feld wird meist nicht mit angegeben \(findet nur in seltenen Fällen Verwendung\).**
 
 ## 4. Stichwörter
 
