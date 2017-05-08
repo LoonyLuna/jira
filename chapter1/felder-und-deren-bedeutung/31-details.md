@@ -24,6 +24,7 @@ Dieses Feld wird dazu genutzt die Aufgabe zu spezifizieren. Die Auswahlmöglichk
 * **Verbesserung**
   * Ein bestehendes Modul, bzw. eine bestehende Funktionalität soll erneuert oder optimiert werden
 * **Epic**
+  * Dies ist eine "Container" für Tickets. Darin werden kleine Tickets aufgelistet die unter der Aufgabe laufen.
 * **Story**
 
 ## 2. Priorität
@@ -77,6 +78,4 @@ Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschob
 ## 8. Lösungsversion\(en\)
 
 Dieses Feld wird ausgefüllt nachdem das Ticket deployed wurde. Hier wird angegeben in welcher Version das Problem gelöst wurde \(z.B. 1.6\)
-
-
 
