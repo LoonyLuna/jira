@@ -5,7 +5,7 @@
 \[SCREENSHOT AKA ABBILDUNG 1\]  
 In Abbildung 1 sehen wir auf der linken Seite die aktuellsten Änderungen im System \(Neuigkeitenanzeige\). Z.B. wird hier angezeigt, was ein Mitarbeiter mit dem Ticket gemacht hat \(z.B. Statuswechsel oder Kommentar\). Mit Hilfe der drei Icons im oberen rechten Bereich der Neuigkeitenanzeige, kann die Ansicht der Neuigkeiten verändert, bzw. als Code eines RSS-Feed ausgegeben werden.  
 In der oberen rechten Ecke der Startseite sieht man eine Filterliste der Tickets, die einem selber zugeordnet sind, sprich: "Meine Tickets".  
-Darunter werden, wenn vorhanden, Tickets \(von Ihren favorisierten Filtern\) ausgegeben. Z.B. haben Sie einen Filter favorisiert der "grün" heißt. In dieser Listewerden also alle Tickets mit dem Tag "grün" aufgeführt.
+Darunter werden, wenn vorhanden, Tickets \(von Ihren favorisierten Filtern\) ausgegeben. Z.B. haben Sie einen Filter favorisiert der "grün" heißt. In dieser Liste werden also alle Tickets mit dem Tag "grün" aufgeführt.
 
 Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargestellt:
 
@@ -42,6 +42,7 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
       * Beim Klick auf diese Option werden Ihnen alle Projekte angezeigt an denen Sie beteiligt sind. 
 * **Vorgänge**
   * _Aktuelle Suche_
+    * Beim Klick auf diese Option werden Sie zur Suchen-Seite weitergeleitet. 
   * _Nach Vorgängen suchen_
   * _Aktuelle Vorgänge_
   * _mehr..._
