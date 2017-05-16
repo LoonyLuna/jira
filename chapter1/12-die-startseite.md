@@ -42,10 +42,13 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
       * Beim Klick auf diese Option werden Ihnen alle Projekte angezeigt an denen Sie beteiligt sind. 
 * **Vorgänge**
   * _Aktuelle Suche_
-    * Beim Klick auf diese Option werden Sie zur Suchen-Seite weitergeleitet. 
+    * Beim Klick auf diese Option werden Sie zur Suchen-Seite weitergeleitet. Eine detaillierte Beschreibung zu dieser Seite finden Sie unter **1.5 Suchen**.
   * _Nach Vorgängen suchen_
+    * Beim Klick auf diese Option werden Sie zur Suchen-Seite weitergeleitet. Eine detaillierte Beschreibung zu dieser Seite finden Sie unter **1.5 Suchen**.
   * _Aktuelle Vorgänge_
+    * Unter diesem Filter werden Ihnen Tickets angeziegt, die sie zuletzt bearbeitet/angesehen/kommentiert haben. Dies ist lediglich eine kleine Liste der letzten 5 Tickets.
   * _mehr..._
+    * Beim Klick auf diese Option werden Sie zu den Tickets geleitet die sie zueltzt bearbeitet/angesehen/kommentiert haben. Dies ist eine vollständige Liste.
   * _Vorgänge aus CSV-Datei importieren_
   * _Filter_
     * _Meine offenen Vorgänge_
