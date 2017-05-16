@@ -50,11 +50,16 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
   * _mehr..._
     * Beim Klick auf diese Option werden Sie zu den Tickets geleitet die sie zueltzt bearbeitet/angesehen/kommentiert haben. Dies ist eine vollständige Liste.
   * _Vorgänge aus CSV-Datei importieren_
+    * Beim Klick auf diese Option werden Sie weitergeleitet und können eine CSV-Quelldatei aus einem externen System importieren.
   * _Filter_
     * _Meine offenen Vorgänge_
+      * Beim Klick auf diese Option werden Sie auf eine Übersicht der Tickets weitergeleitet, dessen Bearbeiter Sie sind und die noch zu bearbeiten/offen sind.
     * _Von mir erstellt_
+      * Beim Klick auf diese Option werden Sie auf eine Übersicht der Tickets weitergeleitet, dessen Autor Sie sind.
   * _Filter verwalten_
+    * Beim Klick auf diese Option werden Sie auf die "Filter verwalten"-Seite weitergeleitet. Auf dieser Seite können Sie Filter erstellen/bearbeiten/löschen.
 * **Boards**
+  * Unter diesem Reiter werden Ihnen die vorhanden Boards angezeigt, auf die Sie Zugriff haben. Beim Klick auf das jeweilig Board werden Sie weitergeleitet zur Board-Übersicht.
 * **Erstellen**
 * **Suche**
 * **Das Fragezeichen-Symbol**
