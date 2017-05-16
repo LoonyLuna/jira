@@ -6,7 +6,9 @@
 2. Nun öffnet sich ein Pop-up "Vorgang erstellen". Füllen Sie nun die benötigten Felder aus.
 3. Klicken Sie auf die Schaltfläche "Erstellen" \(siehe Abbildung 2\)
 
-\[SCREENSHOT AKA ABBILDUNG 1\]
+###### ![](/assets/Startseite.png)_Abbildung 1_
 
-\[SCREENSHOT AKA ABBILDUNG 2\]
+###### ![](/assets/Ticket erstellen.png)_Abbildung 2_
+
+
 
