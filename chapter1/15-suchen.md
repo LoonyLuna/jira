@@ -28,7 +28,9 @@ Die Funktionen der linken Spalte sind:
   * _**Kürzlich aktualisiert**_
     * Mit diesem vorgefertigten Filter werden alle Tickets gelistet, die von Ihnen zuletzt bearbeitet/kommentiert wurden.
 * **Filterfavoriten**
-  * Dieses Feld arbeitet ähnlich wie die Schnellfilter. Wenn Sie einen individuellen Filter erstellt haben, erscheint dessen Name unter den Filterfavoriten und ein Klick genügt, um die Liste der Tickets zu filtern.
+  * Dieses Feld arbeitet ähnlich wie die Schnellfilter. Wenn Sie einen individuellen Filter erstellt haben \(mit dem Feld "Speichern unter"\), erscheint dessen Name unter den Filterfavoriten und ein Klick genügt, um die Liste der Tickets zu filtern.
+
+
 
 
 
