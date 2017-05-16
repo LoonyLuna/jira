@@ -38,9 +38,18 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
       * Hier sehen Sie Ihre zuletzt bearbeiteten Projekte, bzw. in welchem Projekt Sie zuletzt ein Ticket bearbeitet haben. Beim Klick auf das jeweilige Projekt werden Sie zu einer gefilterten Übersicht der Tickets in diesem Projekt geleitet. 
     * _Letzte Projekte_
       * Hier sehen Sie Ihre Projekte an denen Sie beteiligt sind, aber lange nichts mehr bearbeitet haben. Beim Klick auf das jeweilige Projekt werden Sie zu einer gefilterten Übersicht der Tickets in diesem Projekt geleitet.
-    * **Alle Projekte anzeigen**
+    * _Alle Projekte anzeigen_
       * Beim Klick auf diese Option werden Ihnen alle Projekte angezeigt an denen Sie beteiligt sind. 
 * **Vorgänge**
+  * _Aktuelle Suche_
+  * _Nach Vorgängen suchen_
+  * _Aktuelle Vorgänge_
+  * _mehr..._
+  * _Vorgänge aus CSV-Datei importieren_
+  * _Filter_
+    * _Meine offenen Vorgänge_
+    * _Von mir erstellt_
+  * _Filter verwalten_
 * **Boards**
 * **Erstellen**
 * **Suche**
