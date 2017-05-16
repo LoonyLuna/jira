@@ -2,7 +2,8 @@
 
 ---
 
-\[SCREENSHOT AKA ABBILDUNG 1\]  
+###### ![](/assets/Startseite.png) _Abbildung 1_
+
 In Abbildung 1 sehen wir auf der linken Seite die aktuellsten Änderungen im System \(Neuigkeitenanzeige\). Z.B. wird hier angezeigt, was ein Mitarbeiter mit dem Ticket gemacht hat \(z.B. Statuswechsel oder Kommentar\). Mit Hilfe der drei Icons im oberen rechten Bereich der Neuigkeitenanzeige, kann die Ansicht der Neuigkeiten verändert, bzw. als Code eines RSS-Feed ausgegeben werden.  
 In der oberen rechten Ecke der Startseite sieht man eine Filterliste der Tickets, die einem selber zugeordnet sind, sprich: "Meine Tickets".  
 Darunter werden, wenn vorhanden, Tickets \(von Ihren favorisierten Filtern\) ausgegeben. Z.B. haben Sie einen Filter favorisiert der "grün" heißt. In dieser Liste werden also alle Tickets mit dem Tag "grün" aufgeführt.
