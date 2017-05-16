@@ -5,6 +5,7 @@
   * [1.1 Was ist JIRA?](chapter1/was-ist-jira.md)
   * [1.2 Die Startseite](chapter1/12-die-startseite.md)
   * [1.3 Die Boards](chapter1/die-boards.md)
+  * [1.4 Projekte](chapter1/14-projekte.md)
 * [2.0 Felder und deren Bedeutung](chapter1/felder-und-deren-bedeutung.md)
   * [2.1 Details](chapter1/felder-und-deren-bedeutung/31-details.md)
   * [2.2 Personen](chapter1/felder-und-deren-bedeutung/32-personen.md)

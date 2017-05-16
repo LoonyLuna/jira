@@ -31,7 +31,7 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
     * _System-Dashboard anzeigen_
       * Bei Klick auf diese Option werden Sie zur Startseite geleitet.
     * _Dashboards verwalten_
-      * Bei Klick auf diese Option werden Sie zur "Dashboard verwalten"-Seite weitergeleitet. Für eine genaue Beschreibung dieser Seite lesen Sie bitte unter dem Punkt 1.3 Dashboards verwalten nach.
+      * Bei Klick auf diese Option werden Sie zur "Dashboard verwalten"-Seite weitergeleitet. Für eine genaue Beschreibung dieser Seite lesen Sie bitte **1.3 Dashboards verwalten**.
 * **Projekte**
 * **Vorgänge**
 * **Boards**
