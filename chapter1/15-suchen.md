@@ -2,5 +2,7 @@
 
 ---
 
-\[SCREENSHOT\]
+###### ![](/assets/Suchen.png)_Abbildung 1_
+
+
 

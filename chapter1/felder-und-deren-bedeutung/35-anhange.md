@@ -12,6 +12,19 @@ Mögliche Datentypen sind:
 * png
 * odt
 * pdf
+* txt
+* swf
+* mov
+* wma
+* wmv
+* rm
+* ram
+* mp3
+* gif
+* jpeg
+* jpg
+* mpeg
+* avi
 
 
 

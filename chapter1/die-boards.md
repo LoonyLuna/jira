@@ -2,7 +2,7 @@
 
 ---
 
-\[SCREENSHOT AKA ABBILDUNG 1\]
+###### ![](/assets/Boards.png)_Abbildung 1_
 
 ## Dashboards verwalten
 

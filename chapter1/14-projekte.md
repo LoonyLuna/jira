@@ -2,5 +2,7 @@
 
 ---
 
-\[SCREENSHOT\]
+###### ![](/assets/Projekte.png)_Abbildung 1_
+
+
 
