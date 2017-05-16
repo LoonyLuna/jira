@@ -23,7 +23,7 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
 ## Die Taskleiste
 
 * **Das "Burger-Menü"**
-  * Am oberen Rand der Startseite sehen Sie eine Taskleiste mit verschiedenen Reitern \(siehe Abbildung 1 oben\). Unter dem "Burger-Menü"-Symbol \(das erste Symbol von links\) finden Sie direkte Verlinkungen. Für diese Verlinkungen benötigen Sie jedoch seperate Zugriffsrechte.
+  * Am oberen Rand der Startseite sehen Sie eine Taskleiste mit verschiedenen Reitern \(siehe Abbildung 1 oben\). Diese Taskleiste werden Sie auf jeder Seite vom JIRA sehen. Unter dem "Burger-Menü"-Symbol \(das erste Symbol von links\) finden Sie direkte Verlinkungen. Für diese Verlinkungen benötigen Sie jedoch seperate Zugriffsrechte.
 * **Das erdfisch-Symbol**
   * Mit diesem Symbol gelangen Sie jederzeit zur Startseite.
 * **Startseite**
@@ -33,6 +33,13 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
     * _Dashboards verwalten_
       * Bei Klick auf diese Option werden Sie zur "Dashboard verwalten"-Seite weitergeleitet. Für eine genaue Beschreibung dieser Seite lesen Sie bitte **1.3 Dashboards verwalten**.
 * **Projekte**
+  * Unter diesem Reiter sind folgende Punkte aufgelistet:
+    * _Aktuelles Projekt_
+      * Hier sehen Sie Ihre zuletzt bearbeiteten Projekte, bzw. in welchem Projekt Sie zuletzt ein Ticket bearbeitet haben. Beim Klick auf das jeweilige Projekt werden Sie zu einer gefilterten Übersicht der Tickets in diesem Projekt geleitet. 
+    * _Letzte Projekte_
+      * Hier sehen Sie Ihre Projekte an denen Sie beteiligt sind, aber lange nichts mehr bearbeitet haben. Beim Klick auf das jeweilige Projekt werden Sie zu einer gefilterten Übersicht der Tickets in diesem Projekt geleitet.
+    * **Alle Projekte anzeigen**
+      * Beim Klick auf diese Option werden Ihnen alle Projekte angezeigt an denen Sie beteiligt sind. 
 * **Vorgänge**
 * **Boards**
 * **Erstellen**
