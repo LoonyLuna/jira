@@ -76,9 +76,9 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
     * Beim Klick auf diese Option werden Sie zu Ihrem Profil weitergeleitet. Hier können Sie Ihr Profil bearbeiten.
   * _Atlassian Marketplace_
     * Dies ist eine Weiterleitung zu Atlassian Produkten.
-  * _My JIRA Home_
+  * _My JIRA Home \(Beim Klick auf die einzelnen Unterpunkte wird Ihre Startseite festgelegt\)_
     * _Übersicht_
-      * Beim Klick auf diese Option werden Sie zur Startseite weitergeleitet.
+      * Beim Klick auf diese Option werden Sie zur Übersicht \(siehe Abbildung 1\) weitergeleitet.
     * _Boards_
       * Beim Klick auf diese Option werden Sie zu den Board Ihres Projektes weitergeleitet.
     * _Vorgangsnavigator_
