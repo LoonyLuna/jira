@@ -59,7 +59,10 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
   * _Filter verwalten_
     * Beim Klick auf diese Option werden Sie auf die "Filter verwalten"-Seite weitergeleitet. Auf dieser Seite können Sie Filter erstellen/bearbeiten/löschen.
 * **Boards**
-  * Unter diesem Reiter werden Ihnen die vorhanden Boards angezeigt, auf die Sie Zugriff haben. Beim Klick auf das jeweilig Board werden Sie weitergeleitet zur Board-Übersicht.
+  * _Aktuelle Boards_
+    * Unter diesem Reiter werden Ihnen die vorhanden Boards angezeigt, auf die Sie Zugriff haben. Beim Klick auf das jeweilige Board werden Sie weitergeleitet zur Board-Übersicht.
+  * _Zeige alle Boards_
+    * Beim Klick auf diese Option werden Sie zu einer Übersicht aller Boards weitergeleitet, zu denen Sie Zugriff haben.
 * **Erstellen**
 * **Suche**
 * **Das Fragezeichen-Symbol**
