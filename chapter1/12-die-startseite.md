@@ -72,6 +72,19 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
 * **Das Zahnrad-Symbol**
   * Diese Schaltfläche steht für die Jira-Verwaltung und führt den Unterpunkt "Projekte". Beim Klick auf diesen Punkt kommen Sie zur Administrations-Seite der Projekte die Sie verwalten dürfen. Hier können Sie einzelne Einstellungen zum Projekt verändern.
 * **Das Profilbild**
+  * _Profil_
+    * Beim Klick auf diese Option werden Sie zu Ihrem Profil weitergeleitet. Hier können Sie Ihr Profil bearbeiten.
+  * _Atlassian Marketplace_
+    * Dies ist eine Weiterleitung zu Atlassian Produkten.
+  * _My JIRA Home_
+    * _Übersicht_
+      * Beim Klick auf diese Option werden Sie zur Startseite weitergeleitet.
+    * _Boards_
+      * Beim Klick auf diese Option werden Sie zu den Board Ihres Projektes weitergeleitet.
+    * _Vorgangsnavigator_
+      * Beim Klick auf diese Option werden Sie zu einer Übersicht Ihrer eigen erstellten Tickets weitergeleitet.
+  * _Abmelden_
+    * Beim Klick auf diese Option melden Sie sich von JIRA-System ab.
 
 
 
