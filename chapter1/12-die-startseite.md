@@ -66,8 +66,11 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
 * **Erstellen**
   * Beim Klick auf diese Schaltfläche poppt der Dialog zum Ticket erstellen auf. Mehr zu diesem Prozess finden Sie unter **3.1 Erstellen eines Tickets**.
 * **Suche**
+  * Mit Hilfe dieses Suchfeldes können Sie innerhalb des gesamten Ticketsystems nach Tickets suchen.
 * **Das Fragezeichen-Symbol**
+  * Unter dieser Schaltfläche finden Sie allgemeine Hilfe zum JIRA System. Diese wurde von Atlassian erstellt.
 * **Das Zahnrad-Symbol**
+  * Diese Schaltfläche steht für die Jira-Verwaltung und führt den Unterpunkt "Projekte". Beim Klick auf diesen Punkt kommen Sie zur Administrations-Seite der Projekte die Sie verwalten dürfen. Hier können Sie einzelne Einstellungen zum Projekt verändern.
 * **Das Profilbild**
 
 
