@@ -26,5 +26,5 @@ Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standard
 
 ###### ![](/assets/Kanban-Board.png)_Abbildung 3_
 
-
+Abbildung 3 zeigt die Übersicht eines Kaban-Boards. Hier sieht man die einzelnen "Schwimmbahnen" \(Spalten\) die die einzelnen Arbeitsstadien darstellen. Die Tickets können hier auch per Drag & Drop \(Anklicken, festhalten,verschieben und loslassen\) verschoben werden. Jedes Ticket wird in einer kleinen Box angeteasert mit Titel, Bearbeiter und Kurzbeschreibung. Die kleinen Symbole zeigen jeweils den Aufgabentyp und die Dringlichkeit des Tickets. 
 
