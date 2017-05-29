@@ -2,7 +2,9 @@
 
 ---
 
-###### ![](/assets/Projekte.png)_Abbildung 1_
+###### \[SCREENSHOT Dummy Projekt Übersicht\]
+
+###### _Abbildung 1_
 
 In Abbildung 1 sieht man eine Übersicht der Projekte. Es werden folgende Felder angegeben:
 
