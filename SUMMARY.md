@@ -21,7 +21,7 @@
   * [4.2 Planung](40-der-workflow/41-planung.md)
   * [4.3 Aufgaben \(ToDo\)](40-der-workflow/43-aufgaben-todo.md)
   * [4.4 In Arbeit](40-der-workflow/44-in-arbeit.md)
-  * 4.5 Testing \(CI\)
+  * [4.5 Testing \(CI\)](40-der-workflow/45-testing-ci.md)
   * [4.6 Code Review](40-der-workflow/code-review.md)
   * 4.7 Review
   * 4.8 Deploy to Stage
