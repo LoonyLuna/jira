@@ -71,7 +71,7 @@ Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschob
   * Tickets mit diesem Status werden von Mitarbeitern, die das Ticket nicht bearbeitet haben, kontrolliert \(Mehr-Augen-Prinzip\). Hier wird der Code auf eventuelle logische Fehler, die bei den automatisierten Tests nicht aufgefallen sind, überprüft und verifiziert.
 * **Review**
   * Tickets mit diesem Status werden vom angegenen Mitarbeiter auf ihre Funktion geprüft. Wird zum Beispiel ein Export verändert, überprüft ein unabhängiger Mitarbeiter die gewünschte, geänderte Funktion auf die korrekte Ausführung. 
-* **Deploy to stage**
+* **Deploy to Stage**
   * Tickets mit diesem Status wurden getestet und freigegeben für die stage. 
 * **to stage**
   * Tickets mit diesem Status werden momentan auf die stage verschoben.
