@@ -2,9 +2,13 @@
 
 ---
 
-###### ![](/assets/Kanban-Board.png)_Abbildung 1_
+###### \[SCREENSHOT Dummy Board\]
 
-###### ![](/assets/Ticket.png)_Abbildung 2_
+###### _Abbildung 1_
+
+\[SCREENSHOT Dummy Ticket\]
+
+###### _Abbildung 2_
 
 1. Wählen Sie ein zu bearbeitendes Ticket aus \(siehe Abbildung 1\)
 2. Klicken Sie auf "Bearbeiten" \(siehe Abbildung 2\)
