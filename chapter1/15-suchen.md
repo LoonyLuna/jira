@@ -2,7 +2,9 @@
 
 ---
 
-###### ![](/assets/Suchen.png)_Abbildung 1_
+###### \[SCREENSHOT Dummy Suche\]
+
+###### _Abbildung 1_
 
 Wie in Abbildung 1 zu sehen, ist die Suchen-Seite eine Übersicht der Tickets die zum Suchbegriff passen. Hier können über Filter Ticketgruppen zusammengestellt werden die bestimmte Kriterien erfüllen. Z.B. können alle Tickets aufgelistet werden die zum Projekt TEA-8 gehören, bereits in Bearbeitung sind und einen bestimmten Text enthalten. Durch diese Seite kann also gezielt gesucht und barbeitet werden.
 

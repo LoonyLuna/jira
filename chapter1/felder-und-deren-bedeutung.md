@@ -8,5 +8,5 @@
 * **2.4 Beschreibung \(empfohlener Inhalt\)**
 * **2.5 Anhänge**
 
-![](/assets/Ticket.png)
+\[SCREENSHOT Dummy Ticket\]
 
