@@ -25,7 +25,9 @@
   * [4.6 Code Review](40-der-workflow/code-review.md)
   * 4.7 Review
   * 4.8 Deploy to Stage
-  * 4.9 to stage
+  * 4.9 to Stage
   * 4.10 Stage
   * 4.11 to Live \(Deploy\)
+  * 4.12 Done
+  * 4.13 Fertig
 
