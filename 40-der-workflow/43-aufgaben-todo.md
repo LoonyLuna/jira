@@ -2,5 +2,5 @@
 
 ---
 
-
+Tickets mit dem Status "Aufgaben\(ToDo\)" liegen zur Bearbeitung für Projektbeteiligte bereit. Wenn ein Prjketbeteiligter ein solches Ticket bearbeitet und sich selbst zuweist, sollte der Status in "In Arbeit" gewechselt werden.
 
