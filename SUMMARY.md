@@ -24,7 +24,7 @@
   * [4.5 Testing \(CI\)](40-der-workflow/45-testing-ci.md)
   * [4.6 Code Review](40-der-workflow/code-review.md)
   * [4.7 Review](40-der-workflow/47-review.md)
-  * 4.8 Deploy to Stage
+  * [4.8 Deploy to Stage](40-der-workflow/48-deploy-to-stage.md)
   * 4.9 to Stage
   * 4.10 Stage
   * 4.11 to Live \(Deploy\)
