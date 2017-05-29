@@ -23,7 +23,7 @@
   * [4.4 In Arbeit](40-der-workflow/44-in-arbeit.md)
   * [4.5 Testing \(CI\)](40-der-workflow/45-testing-ci.md)
   * [4.6 Code Review](40-der-workflow/code-review.md)
-  * 4.7 Review
+  * [4.7 Review](40-der-workflow/47-review.md)
   * 4.8 Deploy to Stage
   * 4.9 to Stage
   * 4.10 Stage
