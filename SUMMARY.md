@@ -17,8 +17,8 @@
   * [3.1 Erstellen eines Tickets](30-funktionen/31-erstellen-eines-tickets.md)
   * [3.2 Bearbeiten eines Tickets](30-funktionen/32-bearbeiten-eines-tickets.md)
 * [4.0 Der Workflow](40-der-workflow.md)
-  * 4.1 Planung
-  * 4.2 Offen
+  * [4.1 Offen](40-der-workflow/42-offen.md)
+  * [4.2 Planung](40-der-workflow/41-planung.md)
   * 4.3 Aufgaben \(ToDo\)
   * 4.4 In Arbeit
   * 4.5 Testing \(CI\)

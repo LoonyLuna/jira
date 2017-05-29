@@ -57,10 +57,10 @@ In diesem Feld wird eingetragen unter welchem Git-Branch die Aufgabe gelöst wur
 
 Dieses Feld wird automatisch ausgefüllt, wenn ein Ticket auf dem Board verschoben wird, bzw. bei dessen Erstellung. Hier wird angezeigt in welcher Phase sich das Ticket gerade befindet. Mögliche Status sind:
 
-* **Planung**
-  * Tickets mit diesem Status werden momentan geplant \(Projektmanagement\) und sind nicht sichtbar auf dem Board, d.h. sie sind nicht zur Bearbeitung freigegeben.
 * **Offen**
   * Tickets mit diesem Status wurden vom Projektmanagement vom Kunden aufgenommen, aber noch nicht bearbeitet. Diese Tickets sind nicht zur Bearbeitung freigegeben.
+* **Planung**
+  * Tickets mit diesem Status werden momentan geplant \(Projektmanagement\) und sind nicht sichtbar auf dem Board, d.h. sie sind nicht zur Bearbeitung freigegeben.
 * **Aufgaben \(ToDo\)**
   * Tickets mit diesem Status werden in der ersten Spalte auf dem Board ausgegeben und zeigen an, dass sie nun earbeitet werden können.
 * **In Arbeit**

@@ -2,8 +2,8 @@
 
 ---
 
-* **4.1 Planung**
-* **4.2 Offen**
+* **4.1 Offen**
+* **4.2 Planung**
 * **4.3 Aufgaben \(ToDo\)**
 * **4.4 In Arbeit**
 * **4.5 Testing \(CI\)**
