@@ -4,5 +4,5 @@
 
 **Beschreibung:**
 
-Tickets mit diesem Status liegen auf der Stage \(Kopie von Live-Webseite auf die Kunden und Entwcikler Zugriff haben\), um vom Kunden abgenommen zu werden.
+Tickets mit diesem Status liegen auf der Stage \(Kopie von Live-Webseite auf die Kunden und Entwickler Zugriff haben\), um vom Kunden abgenommen zu werden.
 
