@@ -13,6 +13,7 @@
 
 ---
 
-1. 
+1. Überprüfen, ob das Ticket bereits funktional bestätigt wurde
+
 
 
