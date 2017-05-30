@@ -13,13 +13,13 @@
 
 ---
 
-1. Beschreibung-Feld überprüfen \(Testanweisungen stehen dort meist ganz unten\)
-2. Testanweisungen auf Stage durchführen 
-   1. Falls unklar, bite an den Entwickler wenden, der sie geschrieben hat -&gt; als Kommentar
+1. Beschreibung-Feld überprüfen \([Testanweisungen](/40-der-workflow/410-stage.md) stehen dort meist ganz unten\)
+2. [Testanweisungen auf Stage durchführen ](/40-der-workflow/410-stage.md)
+   1. Falls unklar, bite an den Entwickler wenden, der sie geschrieben hat -&gt; als [Kommentar](/30-funktionen/34-kommentieren.md)
    2. Die Stage-URL kann beim Entwickler und beim Projektmanager nachgefragt werden, bzw. sollte bei der Einführung bereits bekannt gegeben werden
 3. Prüfen ob Problem, welches im Ticket beschrieben wurde, weiterhin besteht
-   1. Wenn JA: Mit entsprechendem Kommentar an Projektmanager/Entwickler zuweisen
-   2. Wenn NEIN: Mit entsprechendem Kommentar bestätigen und Projektmanager zuweisen
+   1. Wenn JA: Mit entsprechendem [Kommentar](/30-funktionen/34-kommentieren.md) an Projektmanager/Entwickler [zuweisen](/30-funktionen/33-tickets-zuweisen.md)
+   2. Wenn NEIN: Mit entsprechendem [Kommentar](/30-funktionen/34-kommentieren.md) bestätigen und Projektmanager [zuweisen](/30-funktionen/33-tickets-zuweisen.md)
 
 
 

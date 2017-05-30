@@ -15,8 +15,8 @@
 
 1. Kommentare des Tickets überprüfen, welche Informationen benötigt werden
 2. Informationen einholen
-3. Informationen als Kommentar im Ticket weitergeben
-4. Ticket Dialogpartner zuweisen
+3. Informationen als [Kommentar](/30-funktionen/34-kommentieren.md) im Ticket weitergeben
+4. Ticket Dialogpartner [zuweisen](/30-funktionen/33-tickets-zuweisen.md)
 
 
 
