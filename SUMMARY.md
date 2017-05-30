@@ -1,8 +1,9 @@
 # Summary
 
 * [Willkommen](README.md)
-* [0.0 Quickstart Guide](quickstart-guide.md)
-  * [0.1 Mir wurde ein Ticket zugewiesen. Was mache ich?](quickstart-guide/01-mir-wurde-ein-ticket-zugewiesen-was-mache-ich.md)
+* [0.0 Quickstart Guide \(erdfisch JIRA\)](quickstart-guide.md)
+  * [0.1 Was muss ich beachten?](01-was-muss-ich-beachten.md)
+  * [0.2 Mir wurde ein Ticket zugewiesen. Was mache ich?](quickstart-guide/01-mir-wurde-ein-ticket-zugewiesen-was-mache-ich.md)
 * [1.0 JIRA](chapter1.md)
   * [1.1 Was ist JIRA?](chapter1/was-ist-jira.md)
   * [1.2 Die Startseite](chapter1/12-die-startseite.md)
