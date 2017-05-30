@@ -15,7 +15,7 @@ Auf der Board Übersicht sehen Sie alle existierenden Boards. Es werden folgende
 
 ## Dashboards verwalten
 
-###### _Abbildung 1_
+###### ![](/assets/Dashboard verwalten   erdfisch.png)_Abbildung 1_
 
 Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standardeinstellungen wiederherstellen per Klick auf eine der Schaltflächen im oberen, rechten Bereich. Außerdem können Sie Ihre Dashboardfavoriten verwalten \(vorausgesetzt Sie haben welche\).
 
@@ -23,7 +23,7 @@ Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standard
 
 ### Kanban-Board
 
-###### \[SCREENSHOT Dummy Board Übersicht\]
+###### ![](/assets/Jira Einführung   Agile Board   erdfisch.png)
 
 ###### _Abbildung 2_
 
