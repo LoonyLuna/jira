@@ -1,6 +1,7 @@
 # Summary
 
 * [Willkommen](README.md)
+* Quickstart Guide
 * [1.0 JIRA](chapter1.md)
   * [1.1 Was ist JIRA?](chapter1/was-ist-jira.md)
   * [1.2 Die Startseite](chapter1/12-die-startseite.md)
