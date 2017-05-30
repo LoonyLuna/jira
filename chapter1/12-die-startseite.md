@@ -2,7 +2,7 @@
 
 ---
 
-###### \[SCREENSHOT Dashboard\]
+###### ![](/assets/System Dashboard   erdfisch.png)
 
 ###### _Abbildung 1_
 

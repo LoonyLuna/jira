@@ -15,9 +15,9 @@ Auf der Board Übersicht sehen Sie alle existierenden Boards. Es werden folgende
 
 ## Dashboards verwalten
 
-###### ![](/assets/Dashboards verwalten.png)_Abbildung 2_
+###### _Abbildung 1_
 
-Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standardeinstellungen wiederherstellen per Klick auf eine der Schaltflächen im oberen, rechten Bereich. Außerdem können Sie Ihre Dashboardfavoriten verwalten \(vorausfgesetzt Sie haben welche\).
+Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standardeinstellungen wiederherstellen per Klick auf eine der Schaltflächen im oberen, rechten Bereich. Außerdem können Sie Ihre Dashboardfavoriten verwalten \(vorausgesetzt Sie haben welche\).
 
 ## Ein Board im Detail
 
@@ -25,9 +25,9 @@ Unter Dashboards verwalten können Sie neue Dashboards erstellen & ihre Standard
 
 ###### \[SCREENSHOT Dummy Board Übersicht\]
 
-###### _Abbildung 3_
+###### _Abbildung 2_
 
-Abbildung 3 zeigt die Übersicht eines Kaban-Boards. Hier sieht man die einzelnen "Schwimmbahnen" \(Spalten\) die die einzelnen Arbeitsstadien darstellen. Die Tickets können hier auch per Drag & Drop \(Anklicken, festhalten,verschieben und loslassen\) verschoben werden. Jedes Ticket wird in einer kleinen Box angeteasert mit Titel, Bearbeiter und Kurzbeschreibung. Die kleinen Symbole zeigen jeweils den Aufgabentyp und die Dringlichkeit des Tickets.
+Abbildung 2 zeigt die Übersicht eines Kaban-Boards. Hier sieht man die einzelnen "Schwimmbahnen" \(Spalten\) die die einzelnen Arbeitsstadien darstellen. Die Tickets können hier auch per Drag & Drop \(Anklicken, festhalten,verschieben und loslassen\) verschoben werden. Jedes Ticket wird in einer kleinen Box angeteasert mit Titel, Bearbeiter und Kurzbeschreibung. Die kleinen Symbole zeigen jeweils den Aufgabentyp und die Dringlichkeit des Tickets.
 
 **SCRUM-Boards sehen so ähnlich aus, jedoch haben diese standardmäßig nur drei Spalten \(Aufgaben, in Arbeit, Fertig\).**
 
