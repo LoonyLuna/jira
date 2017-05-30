@@ -2,9 +2,7 @@
 
 ---
 
-###### \[SCREENSHOT Dummy Projekt Übersicht\]
-
-###### _Abbildung 1_
+###### ![](/assets/Projekte durchsuchen   erdfisch.png)_**Abbildung 1**_
 
 In Abbildung 1 sieht man eine Übersicht der Projekte. Es werden folgende Felder angegeben:
 

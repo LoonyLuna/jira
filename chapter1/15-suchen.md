@@ -2,7 +2,7 @@
 
 ---
 
-###### \[SCREENSHOT Dummy Suche\]
+###### ![](/assets/Vorgangsnavigator   erdfisch.png)
 
 ###### _Abbildung 1_
 
