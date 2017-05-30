@@ -4,6 +4,7 @@
 
 * **3.1 Erstellen eines Tickets**
 * **3.2 Bearbeiten eines Tickets**
+* **3.3 Tickets zuweisen**
 
 
 
