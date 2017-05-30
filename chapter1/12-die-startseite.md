@@ -67,7 +67,7 @@ Bei Klick auf die Schaltfläche "Extras", werden folgende Möglichkeiten dargest
   * _Zeige alle Boards_
     * Beim Klick auf diese Option werden Sie zu einer Übersicht aller Boards weitergeleitet, zu denen Sie Zugriff haben.
 * **Erstellen**
-  * Beim Klick auf diese Schaltfläche poppt der Dialog zum Ticket erstellen auf. Mehr zu diesem Prozess finden Sie unter **3.1 Erstellen eines Tickets**.
+  * Beim Klick auf diese Schaltfläche poppt der Dialog zum Ticket erstellen auf. Mehr zu diesem Prozess finden Sie unter [**3.1 Erstellen eines Tickets**](/30-funktionen/31-erstellen-eines-tickets.md).
 * **Suche**
   * Mit Hilfe dieses Suchfeldes können Sie innerhalb des gesamten Ticketsystems nach Tickets suchen.
 * **Das Fragezeichen-Symbol**
