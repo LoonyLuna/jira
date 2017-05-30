@@ -13,6 +13,10 @@
 
 ---
 
-1. 
+1. Kommentare des Tickets überprüfen, welche Informationen benötigt werden
+2. Informationen einholen
+3. Informationen als Kommentar im Ticket weitergeben
+4. Ticket Dialogpartner zuweisen
+
 
 

@@ -13,6 +13,13 @@
 
 ---
 
-1. 
+1. Beschreibung-Feld überprüfen \(Testanweisungen stehen dort meist ganz unten\)
+2. Testanweisungen auf Stage durchführen 
+   1. Falls unklar, bite an den Entwickler wenden, der sie geschrieben hat -&gt; als Kommentar
+   2. Die Stage-URL kann beim Entwickler und beim Projektmanager nachgefragt werden, bzw. sollte bei der Einführung bereits bekannt gegeben werden
+3. Prüfen ob Problem, welches im Ticket beschrieben wurde, weiterhin besteht
+   1. Wenn JA: Mit entsprechendem Kommentar an Projektmanager/Entwickler zuweisen
+   2. Wenn NEIN: Mit entsprechendem Kommentar bestätigen und Projektmanager zuweisen
+
 
 
