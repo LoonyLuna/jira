@@ -2,11 +2,11 @@
 
 ---
 
-###### \[SCREENSHOT Dummy Board\]
+###### ![](/assets/Jira Einführung   Agile Board   erdfisch.png)
 
 ###### _Abbildung 1_
 
-\[SCREENSHOT Dummy Ticket\]
+![](/assets/Bearbeiten.png)
 
 ###### _Abbildung 2_
 
