@@ -6,13 +6,11 @@
 2. Nun öffnet sich ein Pop-up "Vorgang erstellen". Füllen Sie nun die benötigten Felder aus \(siehe Abbildung 2\)
 3. Klicken Sie auf die Schaltfläche "Erstellen"
 
-###### \[SCREENSHOT Erstellen Button\]
+###### ![](/assets/Erstellen  erdfisch.png)
 
 ###### _Abbildung 1_
 
-###### \[SCREENSHOT Ticket erstellen\]
-
-###### _Abbildung 2_
+###### ![](/assets/Vorgang erstellen   erdfisch.png)_Abbildung 2_
 
 
 
